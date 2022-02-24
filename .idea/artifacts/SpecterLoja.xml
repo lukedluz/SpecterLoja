@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterLoja">
+    <output-path>$PROJECT_DIR$/../Plugins</output-path>
+    <root id="archive" name="SpecterLoja.jar">
+      <element id="module-output" name="SpecterLoja" />
+    </root>
+  </artifact>
+</component>

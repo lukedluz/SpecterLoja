@@ -1,0 +1,6 @@
+name: SpecterLoja
+main: com.lucas.specterloja.Main
+version: 1.0
+author: [Specter]
+commands:
+  loja:
